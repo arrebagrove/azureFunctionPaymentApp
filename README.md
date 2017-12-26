@@ -1,6 +1,6 @@
 # azureFunctionPaymentApp
 
-The Azure functions pipeline that do following task.
+The Azure functions pipeline that does following task.
 1. Receive the payment (Web Hook)
 2. Store the detail in Azure Table Storage
 2. Put the Message In a Queue
